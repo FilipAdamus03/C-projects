@@ -1,4 +1,4 @@
-# C++-projects
+# C++ projects
 
 ### Polish:
 ##### Repozytorium które przechowuje moje zadania z języka C++.
