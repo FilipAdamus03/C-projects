@@ -1,6 +1,6 @@
 # C-projects
 
-## Polish:
+###Polish:
 ##### Repozytorium które przechowuje moje zadania z języka C++.
 
 ### English:
