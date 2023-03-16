@@ -37,7 +37,10 @@ int main() {
 
 	for (int i = 0; i < a; i++) {
 		for (int j = 0; j < b; j++) {
-			suma[i][j]=macierz1[i][j]*macierz2[i][j];
+			suma[i][j] = 0;
+			for (int k = 0; k < b; k++) {
+				suma[i][j] += macierz1[i][k] * macierz2[k][j];
+			}
 		}
 	}
 
