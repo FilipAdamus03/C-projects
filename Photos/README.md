@@ -1,19 +1,19 @@
 ## WYGLĄD ZADAŃ
 
-##### Projekt 1 - Trzy Sortowania
+##### Projekt 1 - Liczby stucyfrowe iloczyn
 <img src="Projekt 1 - Liczby stucyfrowe iloczyn.jpg"/>
 
-##### Projekt 2 - Trzy Sortowania
+##### Projekt 2 - Prosty Kalkulator
 <img src="Projekt 2 - Prosty Kalkulator.jpg"/>
 
-##### Projekt 3 - Trzy Sortowania
+##### Projekt 3 - Średnia liczb losowych
 <img src="Projekt 3 - Średnia liczb losowych.jpg"/>
 
-##### Projekt 4 - Trzy Sortowania
+##### Projekt 4 - Ciąg znaków jest palindromem
 <img src="Projekt 4 - Ciąg znaków jest palindromem.jpg"/>
 
-##### Projekt 5 - Trzy Sortowania
+##### Projekt 5 - Sortowanie Bąbelkowe
 <img src="Projekt 5 - Sortowanie Bąbelkowe.jpg"/>
 
-##### Projekt 6 - Trzy Sortowania
+##### Projekt 6 - Macierze iloczyn
 <img src="Projekt 6 - Macierze iloczyn.jpg"/>
