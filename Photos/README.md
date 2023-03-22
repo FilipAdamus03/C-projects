@@ -19,4 +19,4 @@
 <img src="Projekt 6 - Macierze iloczyn.jpg"/>
 
 ##### Projekt 7 - Średnia rzut dwoma kostkami
-<img src="Projekt 7 - Średnia rzut dwoma kostkami.cpp"/>
+<img src="Projekt 7 - Średnia rzut dwoma kostkami.jpg"/>
