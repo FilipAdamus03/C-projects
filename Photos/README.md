@@ -20,3 +20,9 @@
 
 ##### Projekt 7 - Średnia rzut dwoma kostkami
 <img src="Projekt 7 - Średnia rzut dwoma kostkami.jpg"/>
+
+##### Projekt 8 - Próba Bernoulliego
+<img src="Projekt 8 - Próba Bernoulliego.jpg"/>
+
+##### Projekt 9 - Obliczanie Tabeli, suma wszystkich liczb tabeli [i,j]
+<img src="Projekt 9 - Obliczanie Tabeli, suma wszystkich liczb tabeli [i,j].jpg"/>
