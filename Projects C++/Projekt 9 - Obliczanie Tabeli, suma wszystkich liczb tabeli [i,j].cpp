@@ -36,7 +36,11 @@ int main()
 		for (int j = 0; j < n; j++) {
 			cin >> F[i][j];
 		}
+		
 	}
+	
+	cout << endl;
+		
 	neigh(F, W, n, r);
 	for (int i = 0; i < n; i++) {
 		for (int j = 0; j < n; j++) {
