@@ -1,4 +1,4 @@
-﻿// Iloczyn macierzy Filip Adamus
+// Iloczyn macierzy Filip Adamus
 #include <iostream>
 
 using namespace std;
