@@ -1,4 +1,4 @@
-﻿// Filip Adamus 1k111
+// Filip Adamus 
 
 #include <iostream>
 #include <cstdlib>
