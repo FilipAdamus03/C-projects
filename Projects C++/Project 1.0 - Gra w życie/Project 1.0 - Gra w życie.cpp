@@ -1,4 +1,4 @@
-// Filip Adamus 
+// F.A.
 
 #include <iostream>
 #include <cstdlib>
