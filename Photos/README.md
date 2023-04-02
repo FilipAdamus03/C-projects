@@ -1,7 +1,7 @@
 ## WYGLĄD ZADAŃ
 
 ##### Project 0.1 - Liczby stucyfrowe iloczyn
-<img src="Project 0.2 - Liczby stucyfrowe iloczyn.jpg"/>
+<img src="Project 0.1 - Liczby stucyfrowe iloczyn.jpg"/>
 
 ##### Project 0.2 - Prosty Kalkulator
 <img src="Project 0.2 - Prosty Kalkulator.jpg"/>
